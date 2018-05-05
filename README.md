@@ -12,4 +12,4 @@
 
 
 
-![](https://github.com/qibaoan8/self_photo/raw/master/Screenshots/pay.jpg)
+![](https://github.com/qibaoan8/self_photo/raw/master/Screenshots/pay_wx.jpg)
