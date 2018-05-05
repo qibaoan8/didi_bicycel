@@ -9,3 +9,4 @@
 3. 接口的签名是最为复杂的一部分，消耗了很多的时间去分析js的逻辑，实在是不容易；
 4. 如果本实力对你有帮助，请赏本人一杯咖啡谢谢！谢谢：）
 
+![](https://github.com/qibaoan8/self_photo/raw/master/Screenshots/pay.jpg)
